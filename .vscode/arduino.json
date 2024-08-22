@@ -2,5 +2,5 @@
     "configuration": "cpu=atmega328",
     "board": "arduino:avr:nano",
     "programmer": "avrisp",
-    "sketch": "digital_pid_test/digital_pid_test.ino"
+    "sketch": "analog_PID/analog_PID.ino"
 }
